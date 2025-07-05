@@ -1,2 +1,2 @@
-"# pertemuan1"  
-"## Tangkas Arya - 2301010067" 
+# pertemuan1
+# Tangkas Arya - 2301010067 
